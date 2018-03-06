@@ -24,9 +24,9 @@ Route::get('subcategory/{id}','categoryController@subcategory');
 // get list of Apis
 Route::get('Apis','ApiController@index');
 // get list of Leads
-Route::get('Leads','ApiController@leads');
+Route::get('leads/{id}','categoryController@leads');
 // get specific Api
-Route::get('Api/{id}','ApiController@show');
+Route::post('login','categoryController@login');
 // delete a Api
 Route::delete('Api/{id}','ApiController@destroy');
 // update existing Api

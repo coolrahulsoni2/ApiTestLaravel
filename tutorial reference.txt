@@ -5,3 +5,5 @@
 3. https://arjunphp.com/how-to-create-apis-in-laravel-5-5-using-api-resources/
 
 4. https://laravel.com/docs/5.6/eloquent-resources
+
+5. https://medium.com/@janaksan_/laravel-5-4-send-email-b78cca4c4569
